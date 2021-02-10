@@ -1,5 +1,4 @@
 
-// 
 import * as Map from '@rescript/std/lib/es6/belt_MapString.mjs'
 import * as fs from "fs"
 
