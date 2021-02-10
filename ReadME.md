@@ -1,6 +1,6 @@
 
 
-# Example using ReScript as a pure js library
+# Example using [ReScript](https://github.com/rescript-lang/rescript-compiler) as a pure js library
 
 
 [index.mjs](./index.mjs) is a word counting program.
